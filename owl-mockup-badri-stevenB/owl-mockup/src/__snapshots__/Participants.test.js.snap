@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Participants componenet renders the UI as expected 1`] = `
+<ul>
+  <li>
+     
+    <img
+      style={
+        Object {
+          "border": "1px solid black",
+          "borderRadius": "50%",
+          "height": "35px",
+        }
+      }
+    />
+     
+    <div
+      className="grey-dot"
+    />
+  </li>
+  <li>
+     
+    <img
+      style={
+        Object {
+          "border": "1px solid black",
+          "borderRadius": "50%",
+          "height": "35px",
+        }
+      }
+    />
+     
+    <div
+      className="grey-dot"
+    />
+  </li>
+  <li>
+     
+    <img
+      style={
+        Object {
+          "border": "1px solid black",
+          "borderRadius": "50%",
+          "height": "35px",
+        }
+      }
+    />
+     
+    <div
+      className="grey-dot"
+    />
+  </li>
+  <li>
+     
+    <img
+      style={
+        Object {
+          "border": "1px solid black",
+          "borderRadius": "50%",
+          "height": "35px",
+        }
+      }
+    />
+     
+    <div
+      className="grey-dot"
+    />
+  </li>
+</ul>
+`;
