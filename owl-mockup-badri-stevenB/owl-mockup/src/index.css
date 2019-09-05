@@ -17,6 +17,14 @@ ul {
   display: flexbox;
 }
 
+.chat-box {
+  padding: 10px;
+}
+
+.chat-box>ul>li {
+  padding: 3px;
+}
+
 .green-dot {
   background-color:green;
   border-radius: 50%;
